@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20">
+  <title>Toggle the menu</title>
+  <g>
+    <path class="menu-toggle__top" d="M22.44,2.23H1.56A0.76,0.76,0,1,1,1.56.7H22.44A0.76,0.76,0,1,1,22.44,2.23Z" fill="#172936"/>
+    <path class="menu-toggle__middle" d="M22.44,10.76H1.56a0.76,0.76,0,1,1,0-1.53H22.44A0.76,0.76,0,1,1,22.44,10.76Z" fill="#172936"/>
+    <path class="menu-toggle__bottom" d="M22.44,19.3H1.56a0.76,0.76,0,1,1,0-1.53H22.44A0.76,0.76,0,1,1,22.44,19.3Z" fill="#172936"/>
+  </g>
+</svg>
